@@ -1,0 +1,8 @@
+prefix=/home/haijie/catkin_sim/install
+
+Name: offb
+Description: Description of offb
+Version: 0.0.0
+Cflags: -I/home/haijie/catkin_sim/install/include
+Libs: -L/home/haijie/catkin_sim/install/lib -loffb
+Requires: geometry_msgs mavros_msgs roscpp std_msgs

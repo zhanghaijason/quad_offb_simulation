@@ -1,0 +1,2 @@
+offb
+-DCATKIN_DEVEL_PREFIX=/home/haijie/catkin_sim/devel -DCMAKE_INSTALL_PREFIX=/home/haijie/catkin_sim/install -G Unix Makefiles
